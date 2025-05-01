@@ -1,2 +1,2 @@
 # music-generation
-yes
+Repo contains the artifacts for our music generation projects. 
